@@ -1,0 +1,14 @@
+[
+  {
+    "Art": "SOMEARTICLE",
+    "Qnt": "12.00",
+    "Prize": "2.90",
+    "Total": "36.19"
+  },
+  {
+    "Art": "AnotherARTICLE",
+    "Qnt": "10.00",
+    "Prize": "4.90",
+    "Total": "45.00"
+  }
+]
